@@ -1,3 +1,7 @@
+### random-scalor release with native support
+
+Maven-Central `groupId` is [com.carrotgarden.shocon](http://search.maven.org/#search%7Cga%7C1%7Ccom.carrotgarden.shocon)
+
 # SHocon
 
 [![Build Status](https://travis-ci.org/akka-js/shocon.png?branch=master)](https://travis-ci.org/akka-js/shocon)
